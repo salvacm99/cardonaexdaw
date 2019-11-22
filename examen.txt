@@ -1,0 +1,7 @@
+1-	vagrant init ubuntu/trusty64
+2-	vagrant up 
+3-	vagrant ssh
+4-      poner 
+5-      Colocar el archivo vagrant, el archivo provision.sh y la carpeta www a tu repositorio.
+6-      Cambiar el archivo hosts para que tener el dominio llamado www.examen.es,
+        para hacer esto copiaremos el archivo hosts a la carpeta C:\tools\cygwin\etc
